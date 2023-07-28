@@ -29,4 +29,5 @@ echo -e "Hello\nHow are you doing\nGood day"
 # CYAN         36            \e[36m
 
 echo -e "\e[31mHello in red color\e[0m"
+echo -e "\e[33mHello in yellow colour\e[0m"
 echo "Hello in normal text color"
