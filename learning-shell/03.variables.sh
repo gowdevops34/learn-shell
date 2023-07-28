@@ -18,4 +18,4 @@ DATE=$(date +%F)
 echo Welcome, Today date is $DATE
 
 # variables from command line
-#echo c=$c
+echo c = $c
