@@ -8,7 +8,7 @@ echo Hello World
 
 # print multiple lines
 # syntax: echo -e "line1 \n line2"
-echo -e "Hello \n How are you doing \n Good day"
+echo -e "Hello \nHow are you doing\n Good day"
 
 # \t for tab space
 
